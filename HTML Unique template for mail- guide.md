@@ -1,0 +1,257 @@
+
+# HTML based Unique Template for mails
+
+
+
+**Demo of the html code **
+![Demo%20of%20the%20template.png](attachment:Demo%20of%20the%20template.png)
+
+Procedure:
+
+Install the following extension for easier html insertion of code
+
+https://chrome.google.com/webstore/detail/html-inserter-for-gmail/obngoldljmnnpggbekneikaohbeflbee
+
+![image.png](attachment:image.png)
+
+Use this to insert html code
+![image.png](attachment:image.png)
+
+
+Extension button :
+![image.png](attachment:image.png)
+
+
+copy and paste HTML code over here (remove br part completely  )
+
+![image.png](attachment:image.png)
+
+**Insert the following code**
+<!-- Template demo at https://i.ibb.co/zVDd47Q/Demo-of-the-template.png -->
+
+
+<!-- USe this for commenting in code -->
+
+<!-- We create a table (the overall table that will contain your unique mail theme with background image) -->
+
+
+
+<table style="line-height:inherit;color:#000000;border-collapse:collapse;table-layout:fixed;border-spacing:0;vertical-align:top;min-width:320px;Margin:0 auto;background-color:#e7e7e7;width:100%" cellpadding="0" cellspacing="0" width="100%" valign="top" bgcolor="#e7e7e7">
+  <tbody style="line-height:inherit">
+  <tr style="line-height:inherit;border-collapse:collapse;vertical-align:top" valign="top">
+    <td style="line-height:inherit;color:#000000;word-break:break-word;vertical-align:top;border-collapse:collapse" valign="top">
+    
+    
+
+<div style="line-height:inherit;padding:0px;background-color:transparent">
+  <div style="line-height:inherit;Margin:0 auto;min-width:320px;max-width:600px;word-wrap:break-word;word-break:break-word;background-color:transparent">
+    <div style="line-height:inherit;border-collapse:collapse;display:table;width:100%;background-image:url('https://ci4.googleusercontent.com/proxy/CTasvqfX1Vla8rdoR_IjCDtWH_A1XjhukoYlDqSe7F6hlsVm0WWUqvpptDZn9qsQW_ZmiWWmhE8=s0-d-e1-ft#https://i.ibb.co/8X9CNB2/newtheme.png');background-repeat:no-repeat;background-position:center top;background-color:transparent">
+      
+<!-- newtheme png is the location of image where -->   
+
+
+<div style="line-height:inherit;max-width:320px;min-width:600px;display:table-cell;vertical-align:top">
+  <div style="line-height:inherit;width:100%">
+  <div style="line-height:inherit;padding:0px;border-top:0px solid transparent;border-left:0px solid transparent;border-right:0px solid transparent;border-bottom:0px solid transparent">
+  
+<table id="m_-3923404824324032266m_5127269984798751099m_1492309165196518253m_-5989519019210577274m_4230530519278186589m_-2068736818035514913m_-1082117070996660440m_3322901832185730735u_content_image_1" style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:20px 10px 10px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse" valign="top">
+  <tbody><tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+    <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;padding-right:0px;padding-left:0px" align="center" valign="top">
+      
+      <img align="center" border="0" src="https://i.ibb.co/6ByndMS/demofortheme.png" alt="Image" title="Image" style="line-height:inherit;outline:none;text-decoration:none;clear:both;border:none;height:auto;float:none;width:33%;max-width:191.4px;display:inline-block" width="191.4" class="CToWUd a6T" tabindex="0"><div class="a6S" dir="ltr" style="opacity: 0.01; left: 347.3px; top: 112px;"><div id=":p4" class="T-I J-J5-Ji aQv T-I-ax7 L3 a5q" role="button" tabindex="0" aria-label="Download attachment " data-tooltip-class="a1V" data-tooltip="Download"><div class="akn"><div class="aSK J-J5-Ji aYr"></div></div></div></div><div dir="ltr" style="opacity:0.01"><div id="m_-3923404824324032266:16x" title="Download" role="button" aria-label="Download attachment "><div><div></div></div></div></div><div dir="ltr" style="opacity:0.01"><div id="m_-3923404824324032266m_5127269984798751099:1i8" role="button" aria-label="Download attachment "><div><div></div></div></div></div><div dir="ltr" style="opacity:0.01"><div id="m_-3923404824324032266m_5127269984798751099m_1492309165196518253:173" role="button" aria-label="Download attachment "><div><div><br></div></div></div></div>
+      
+    </td>
+  </tr>
+</tbody></table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:18px 10px 10px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+  <div style="color:#ffffff;line-height:140%;text-align:center;word-wrap:break-word">
+    <p style="margin:0;line-height:140%;font-size:14px"><span style="font-size:30px;line-height:42px"><strong style="line-height:inherit">Main Heading </strong></span></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:0px 50px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+<div align="center" style="line-height:inherit">
+  
+    <a style="line-height: inherit; box-sizing: border-box; display: inline-block; font-family: Montserrat, sans-serif; text-decoration: none; text-align: center; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); border-radius: 0px; width: 51%; max-width: 100%; word-break: break-word; overflow-wrap: break-word; font-size: 18px;" rel="noreferrer noreferrer noreferrer noreferrer"><b>
+      <span style="display:block;padding:12px;line-height:120%">Date or motto</span></b></a></div></td></tr></tbody></table><table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:20px 10px 29px;font-family:Montserrat,sans-serif" align="left" valign="top">
+        
+  <div style="line-height:200%;text-align:center">
+    <p style="color:rgb(255,255,255);margin:0px;line-height:200%"><font size="4">Header 1</font></p><p style="color:rgb(255,255,255);margin:0px;line-height:200%"><font size="4">Header 2</font></p><p style="color:rgb(255,255,255);margin:0px;font-size:14px;line-height:200%"> Enter your text here (click to enter) </p><p style="color:rgb(255,255,255);margin:0px;font-size:14px;line-height:200%"><br></p><p style="color:rgb(255,255,255);margin:0px;font-size:14px;line-height:200%">paragraph 1</p><p style="margin:0px;line-height:200%"><font color="#ffffff">Paragraph 2</font></p><p style="color:rgb(255,255,255);margin:0px;font-size:14px;line-height:200%">ending words</p><p style="color:rgb(255,255,255);margin:0px;font-size:14px;line-height:200%">Designation<br></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:0px 50px 15px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+<div align="center" style="line-height:inherit">
+  
+    <a href="http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=14118222&l=607e0fc6-bdbb-4906-b525-d8d2edcb6f7f&r=e3532a64-3307-4440-a460-1e78d0b336e9" rel="noreferrer noreferrer noreferrer noreferrer" style="font-size:18px" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c%3D14118222%26l%3D607e0fc6-bdbb-4906-b525-d8d2edcb6f7f%26r%3De3532a64-3307-4440-a460-1e78d0b336e9&source=gmail&ust=1626584521206000&usg=AFQjCNFAWs_AAWmyaLUVf6bnyQLin1lXiQ"><b>
+      </b></a><blockquote class="gmail_quote" style="margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><span style="line-height:120%;box-sizing:border-box;display:block;font-family:Montserrat,sans-serif;text-align:center;color:rgb(255,255,255);background-color:rgb(0,0,0);border-radius:0px;width:auto;max-width:100%;word-break:break-word;padding:12px"><span style="font-size: 18px;"><b><u>Ending words</u></b></span></span></blockquote></div></td></tr></tbody></table><table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:10px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse" valign="top">
+  <tbody><tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+    <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;padding-right:0px;padding-left:0px" align="center" valign="top">
+      
+      <div dir="ltr" style="opacity:0.01"><div id="m_-3923404824324032266m_5127269984798751099m_1492309165196518253:174" title="Download" role="button" aria-label="Download attachment "><div><div></div></div></div></div>
+      
+    </td>
+  </tr>
+</tbody></table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  </div>
+</div>
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+<div style="line-height:inherit;padding:0px;background-color:transparent">
+  <div style="line-height:inherit;Margin:0 auto;min-width:320px;max-width:600px;word-wrap:break-word;word-break:break-word;background-color:#e5e6ea">
+    <div style="line-height:inherit;border-collapse:collapse;display:table;width:100%;background-color:transparent">
+      
+      
+
+<div style="line-height:inherit;max-width:320px;min-width:600px;display:table-cell;vertical-align:top">
+  <div style="line-height:inherit;width:100%">
+  <div style="line-height:inherit;padding:9px;border-top:0px solid transparent;border-left:0px solid transparent;border-right:0px solid transparent;border-bottom:0px solid transparent">
+  
+<table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:32px 4px 4px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+     
+     
+<!-- this section contains instagram logo and link with href (which refer to  a link upon clicking) to change -->
+
+<div align="center" style="line-height:inherit">
+  <div style="line-height:inherit;display:table;max-width:164px">
+<a href="https://github.com/Isunny-pixel" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.instagram.com/cea_iitm/&source=gmail&ust=1626584521206000&usg=AFQjCNHTHs714bijKLBU6CXZ0ivsk1BlMg">
+<img src="https://ci3.googleusercontent.com/proxy/E5MBzEwx6w5QMnAcLN6pUF_zPEHton5hsqeL2_Uf9RpU43E_pFndXKLmlxLkCQ9CPts=s0-d-e1-ft#https://i.imgur.com/lQnvCBE.png" alt="               CEA    " title="Instagram" width="32" style="line-height:inherit;outline:none;clear:both;border:none;height:auto;float:none;display:block;max-width:32px" class="CToWUd"></a>
+
+    
+
+    
+    
+  </div>
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;font-family:'Montserrat',sans-serif" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0" valign="top">
+  <tbody style="line-height:inherit">
+    <tr style="line-height:inherit;vertical-align:top;border-collapse:collapse" valign="top">
+      <td style="line-height:inherit;color:#000000;vertical-align:top;border-collapse:collapse;word-break:break-word;padding:10px;font-family:'Montserrat',sans-serif" align="left" valign="top">
+        
+  <table height="0px" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="line-height:inherit;color:#000000;border-collapse:collapse;table-layout:fixed;border-spacing:0;vertical-align:top;border-top:1px solid #f8f8f8" valign="top">
+    <tbody style="line-height:inherit">
+      <tr style="line-height:inherit;border-collapse:collapse;vertical-align:top" valign="top">
+        <td style="color:#000000;word-break:break-word;vertical-align:top;font-size:0px;line-height:0px;border-collapse:collapse" valign="top">
+          <span style="line-height:inherit"> </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  </div>
+</div>
+
+      
+    </div>
+  </div>
+</div>
+
+
+    
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  
+
+Generated output:
+
+![image.png](attachment:image.png)
+
+# changing data
+
+Use control F (ctrl+F) inside the insert html section to find these places 
+
+newtheme.png thats the background, replace it with any server based url of image that you want to have for mail
+![image.png](attachment:image.png)
+
+Background
+![newtheme.png](attachment:newtheme.png)
+
+**Again do same with ctrl F and find demofortheme.png replace it with some link of image for logo**
+
+
+![image.png](attachment:image.png)
+
+Logo
+![demofortheme.png](attachment:demofortheme.png)
+
+
+Search for insta and replace its logo to any of your suit (add you can add more by understanding that section of code by replicating that segment )
+![image.png](attachment:image.png)
+
+![image.png](attachment:image.png)
+
+# Thank you
+
+
+```python
+
+```
